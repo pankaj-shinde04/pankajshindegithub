@@ -63,18 +63,3 @@
 
 ---
 
-## How to add the animated assets
-
-1. **Create a banner GIF**  
-   - Quick tools: Canva (export as GIF), Figma + Lottie (export as GIF), or make a short mp4 and convert to GIF using ezgif.com.  
-   - Recommended size: width ~1200–1600 px; keep file < 2.5–3 MB for faster loads.
-
-2. **Save it into your repo** under a folder `assets/`:
-   - `assets/banner.gif` (banner)
-   - optionally `assets/react.gif`, `assets/tailwind.gif` for animated icons
-
-3. **Commit & push**:
-```bash
-git add README.md assets/banner.gif
-git commit -m "chore: add animated banner and typing svg to README"
-git push origin main

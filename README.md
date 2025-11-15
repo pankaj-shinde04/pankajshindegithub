@@ -56,10 +56,4 @@
 
 ---
 
-## 🎨 Small animation ideas I added
-- **Banner GIF** at top (`./assets/banner.gif`) — subtle looping animation that sets style instantly.
-- **Typing SVG** below the badges — dynamic text lines (uses `readme-typing-svg` service).
-- Option: add small animated icons (e.g. `assets/react.gif`) next to tech badges if you want them to move.
-
----
 

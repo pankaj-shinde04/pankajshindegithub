@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Pankaj Shinde</h1>
-<h3 align="center">Front End Web Developer</h3>
+<h3 align="center"> MERN Web Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pankaj-shinde-79291a315/" target="_blank">

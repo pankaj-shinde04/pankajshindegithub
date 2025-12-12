@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="YOUR_BACKGROUND_IMAGE_URL" alt="banner" width="100%" />
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600" alt="banner" width="100%" />
 </p>
 
 <!-- NAME -->
@@ -13,12 +13,13 @@
 - 🎓 Graduated in **BBACA**  
 - 🚀 Learning **MERN Stack & Android Development**  
 - 📚 Preparing for **MCA CET** & MNC placements  
-- 💡 I enjoy building modern UI websites  
-- 🔥 Always learning & improving every day  
+- 💡 Love creating modern UI websites  
+- 🔥 Always improving my skills  
 
 ---
 
 ## 🛠️ Skills & Technologies  
+
 ### **Frontend**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />

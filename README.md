@@ -1,59 +1,73 @@
-<p align="center">
-  <!-- Animated banner (place banner.gif inside repo /assets/) -->
-  <img src="./assets/banner.gif" alt="Pankaj Shinde" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Pankaj Shinde</h1>
-<h3 align="center"> MERN Web Developer</h3>
+<!-- HEADER -->
+<h1 align="center">👋 Hi, I'm <span style="color:#ff8800;">Pankaj Shinde</span></h1>
+<h3 align="center">Web Developer • MERN Learner • Tech Explorer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pankaj-shinde-79291a315/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:pankajshinde2434@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Typing effect (remote svg generator) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=333333&width=700&lines=Building+real-world+apps;Learning+every+day;Frontend+&+UI+enthusiast" alt="typing" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff8800&style=flat" alt="views" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 BBA(CA) Student  
-- 🌐 **Web Developer**  
-- 🎯 Passionate about building real-world applications  
-- 💡 Projects: **Dine Flick**, **Trekking Booking Site**, **Shopify Webflow Store**
-
----
-
-## Tech Stack
-
-### Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Web Development  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+## 🧑‍💻 About Me  
+- 🎓 Graduated in **BBACA**  
+- 🚀 Learning **MERN Stack + Android Development**  
+- 🌐 Building projects like **Dine Flick**, AI apps & websites  
+- 📚 Preparing for **MCA CET** & MNC placements  
+- 💡 I believe in *learning by building*  
+- ⚡ Fun fact: I break code to fix it 😄  
 
 ---
 
-## No Code Tools
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
+## 🛠️ Tech Stack
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+</p>
+
+### **Tools & Others**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webflow" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
-
-![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankajshinde&show_icons=true&theme=radical)
+## 🚀 Featured Projects  
+🔸 **Dine Flick** – Table Booking + Ticket Selling + Reselling  
+🔸 **AI E-commerce Website**  
+🔸 **React + Node Full Stack Projects**  
+🔸 **Chat Application with AI Integration**  
+*(Add more as you build…)*  
 
 ---
 
-see this i have same structure but add something new i have some animations of svg 
+## 📊 GitHub Analytics  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&icon_color=ff8800&title_color=ff8800" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&ring=ff8800&fire=ff8800&currStreakLabel=ff8800" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&title_color=ff8800" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>
+
+---
+
+## ⭐ Thank You  
+<p align="center">
+  <b>If you like my work, consider giving a ⭐ to my repositories!</b>
+</p>

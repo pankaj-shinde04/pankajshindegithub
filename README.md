@@ -2,9 +2,9 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#ff8800;">Pankaj Shinde</span></h1>
 <h3 align="center">Web Developer • MERN Learner • Tech Explorer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff8800&style=flat" alt="views" />
-</p>
+</p> -->
 
 ---
 

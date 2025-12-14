@@ -11,7 +11,6 @@
 ## 🧑‍💻 About Me  
 - 🎓 Graduated in **BBACA**  
 - 🚀 Learning **MERN Stack + Android Development**  
-- 🌐 Building projects like **Dine Flick**, AI apps & websites  
 - 📚 Preparing for **MCA CET** & MNC placements  
 - 💡 I believe in *learning by building*  
 - ⚡ Fun fact: I break code to fix it 😄  
@@ -35,14 +34,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,webflow" />
 </p>
 
----
-
-## 🚀 Featured Projects  
-🔸 **Dine Flick** – Table Booking + Ticket Selling + Reselling  
-🔸 **AI E-commerce Website**  
-🔸 **React + Node Full Stack Projects**  
-🔸 **Chat Application with AI Integration**  
-*(Add more as you build…)*  
 
 ---
 

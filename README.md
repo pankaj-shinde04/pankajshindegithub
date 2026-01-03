@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me  
 - 🎓 Graduated in **BBACA**  
-- 🚀 Learning **MERN Stack + Android Development**  
+- 🚀 Learning **MERN Stack**  
 - 📚 Preparing for **MCA CET** & MNC placements  
 - 💡 I believe in *learning by building*  
 - ⚡ Fun fact: I break code to fix it 😄  

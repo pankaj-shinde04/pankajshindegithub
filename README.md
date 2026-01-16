@@ -26,10 +26,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
 </p>
 
-### **Tools & Others**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,webflow" />
-</p>
+
 
 
 ---

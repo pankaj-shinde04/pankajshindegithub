@@ -27,6 +27,10 @@
 </p>
 
 
+### **Tools & Others**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webflow" />
+</p>
 
 
 ---

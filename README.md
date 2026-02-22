@@ -38,20 +38,6 @@
 
 ---
 
-## 📌 Projects
-
-### 🍽️ Restaurant Booking System
-- Flask + SQLite based system  
-- Real-time booking  
-- Cashback resell feature  
-
-### 💬 MERN Chat Application
-- JWT Authentication  
-- MongoDB integration  
-- Secure login system  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -60,12 +46,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-shinde04&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj-shinde04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>

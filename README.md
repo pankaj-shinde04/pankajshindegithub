@@ -1,62 +1,71 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hi, I'm <span style="color:#ff8800;">Pankaj Shinde</span></h1>
-<h3 align="center">Web Developer • MERN Learner • Tech Explorer</h3>
+<h1 align="center">Hi 👋, I'm Pankaj Shinde</h1>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff8800&style=flat" alt="views" />
-</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;DSA" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me  
-- 🎓 Graduated in **BBACA**  
-- 💡 I believe in *learning by building*    
+## 👨‍💻 About Me
+
+- 💻 MERN Stack Developer  
+- 🧠 Practicing Data Structures & Algorithms  
+- 🚀 Building full-stack web applications  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
+### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-### **Backend**
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" />
 </p>
 
-
-### **Tools & Others**
+### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,webflow" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 </p>
 
-
----
-
-## 📊 GitHub Analytics  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&icon_color=ff8800&title_color=ff8800" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&ring=ff8800&fire=ff8800&currStreakLabel=ff8800" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&title_color=ff8800" />
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+## 📌 Projects
+
+### 🍽️ Restaurant Booking System
+- Flask + SQLite based system  
+- Real-time booking  
+- Cashback resell feature  
+
+### 💬 MERN Chat Application
+- JWT Authentication  
+- MongoDB integration  
+- Secure login system  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pankaj-shinde04&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-shinde04&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## ⭐ Thank You  
+## 📈 Top Languages
+
 <p align="center">
-  <b>If you like my work, consider giving a ⭐ to my repositories!</b>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj-shinde04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>

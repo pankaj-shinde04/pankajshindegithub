@@ -14,6 +14,14 @@
 
 ---
 
+## 🎓 Education
+
+- 🎓 Bachelor’s Degree (Computer/Related Field)  
+- 📚 Preparing for MCA  
+- 💡 Continuous learner in Web Development & DSA  
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🚀 Frontend
@@ -46,4 +54,17 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-shinde04&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>

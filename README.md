@@ -16,9 +16,9 @@
 
 ## 🎓 Education
 
-- 🎓 Bachelor’s Degree (Computer/Related Field)  
-- 📚 Preparing for MCA  
-- 💡 Continuous learner in Web Development & DSA  
+- 🎓 Bachelor Business Administration (Computer Application)  
+- Modern College Art's Science & Commerce Ganeshkhind Pune, Maharashtra 
+  
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap, redux" />
 </p>
 
 ### ⚙️ Backend
@@ -61,10 +61,10 @@
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/pankaj-shinde-79291a315/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:pankajshinde2434@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
